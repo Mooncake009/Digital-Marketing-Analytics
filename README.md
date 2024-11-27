@@ -55,3 +55,5 @@ Relatively high cost per conversion: $26.16.
 Focus on top-performing regions such as Georgia and Florida for localized campaigns.
 #### Optimize Campaign Durations:
 Test shorter, high-intensity campaigns on platforms like YouTube for maximized impact.
+## Conclusion
+This analysis highlights the importance of a data-driven approach to ad spend optimization. By leveraging platform-specific strengths and addressing weaknesses, Fresh Cart can achieve greater efficiency and ROI in future campaigns. The visual dashboards provide a clear roadmap for strategizing upcoming marketing efforts.
