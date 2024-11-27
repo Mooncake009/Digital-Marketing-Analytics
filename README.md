@@ -45,7 +45,7 @@ Highest cost per conversion: $35.00.
 #### Instagram:
 Low revenue: $10.4K.
 Relatively high cost per conversion: $26.16.
-### Recommendations
+## Recommendations
 #### Prioritize High-Performing Platforms:
 - Allocate more budget to YouTube and Twitter for their high ROI.
 #### Reassess Strategies for Underperforming Platforms:
