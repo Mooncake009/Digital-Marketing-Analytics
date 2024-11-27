@@ -4,15 +4,15 @@ This project's primary aim was to analyze Fresh Cart's advertising performance a
 
 ## Data Description 
 Ad Campaign Data
-✓ CampaignID - Unique Identifier for each Campaign
-✓ Platform - Where the ad was shown (e.g., Google Ads, Facebook, Instagram, Twitter, Third-Party sites, etc.)
-✓ AdDuration: Ad duration in weeks
-✓ Cost - Amount spent on the Ad.
-✓ Impressions - Number of times the ad was shown
-✓ Clicks - Number of times the ad was clicked
-✓ Conversions - Number of actions taken as a result of the ad
-✓ ConversionValue: The total sales value generated from the conversions of the Ad.
-✓ CPC (Cost per click) - How much was spent for each click?
+- CampaignID - Unique Identifier for each Campaign
+- Platform - Where the ad was shown (e.g., Google Ads, Facebook, Instagram, Twitter, Third-Party sites, etc.)
+- AdDuration: Ad duration in weeks
+- Cost - Amount spent on the Ad.
+- Impressions - Number of times the ad was shown
+- Clicks - Number of times the ad was clicked
+- Conversions - Number of actions taken as a result of the ad
+- ConversionValue: The total sales value generated from the conversions of the Ad.
+- CPC (Cost per click) - How much was spent for each click?
 
 ## Tool Used 
 Power BI 
